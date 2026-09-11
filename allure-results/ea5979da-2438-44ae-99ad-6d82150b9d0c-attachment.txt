@@ -1,0 +1,4 @@
+before all
+before each test case
+test case 1
+after each
