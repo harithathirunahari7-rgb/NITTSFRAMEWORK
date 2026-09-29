@@ -1,0 +1,7 @@
+DB_SERVER=localhost
+DB_PORT=1433
+DB_USER=your_username
+DB_PASSWORD=your_password
+DB_NAME=your_database
+DB_ENCRYPT=false
+DB_TRUST_SERVER_CERTIFICATE=true

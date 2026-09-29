@@ -1,0 +1,1 @@
+SQL Result: [ { CurrentDate: 2026-09-25T17:00:47.663Z { nanosecondsDelta: 0 } } ]

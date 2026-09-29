@@ -1,0 +1,4 @@
+Node version: v24.18.0
+Node architecture: x64
+Node executable: C:\Program Files\nodejs\node.exe
+Platform: win32

@@ -1,0 +1,7 @@
+Node version: v24.18.0
+Node architecture: x64
+Node executable: C:\Program Files\nodejs\node.exe
+Platform: win32
+PATH: C:\NITJSframework\node_modules\.bin;C:\NITJSframework\node_modules\.bin;C:\node_modules\.bin;C:\Program Files\nodejs\node_modules\npm\node_modules\@npmcli\run-script\lib\node-gyp-bin;c:\Users\harit\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand;c:\Users\harit\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\copilotCli;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\harit\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.12.101-hotspot\bin;C:\Users\harit\AppData\Local\Programs\Python\Launcher\;C:\Users\harit\AppData\Local\Microsoft\WindowsApps;C:\Users\harit\AppData\Roaming\npm;C:\Users\harit\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Git\cmd;
+ODBCINSTINI: undefined
+ODBCSYSINI: undefined

@@ -1,0 +1,4 @@
+{ id: 255, todo: 'Pay the bills', completed: true, userId: 143 }
+201
+application/json; charset=utf-8
+{"id":255,"todo":"Pay the bills","completed":true,"userId":143}
